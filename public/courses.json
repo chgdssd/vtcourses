@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "AWS",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg?w=740&t=st=1703912628~exp=1703913228~hmac=ecf6c4e216e6877d532144dbc41707b4e71469aa448f8b39195b977d3d4ceb98",
+        "title": "AWS Cloud Practitioner Course",
+        "content": "/PDF/AWSpdf/AWSPracitioner2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/graphic-designer-gaming-industry-talking-detail-with-his-colleague-analyzing-3d-design-level-explaining-production-creative-ideas-game-creators-working-videogame-illustration-company-office_482257-28158.jpg?w=1060&t=st=1703912398~exp=1703912998~hmac=4790d811d22ee5b20596d44a1155a056170dc1497a360bfc8a000bcd22f56ee8",
+        "title": "AWS Solutions Architect Assosiate",
+        "content": "/PDF/AWSpdf/AWSSolutionArchitect2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/businessman-with-cloud-computing-diagram-show-hand-cloud-technology-data-storage-networking-internet-service-concept_29488-6175.jpg?w=1060",
+        "title": "AWS Sysops Administrator",
+        "content": "/PDF/AWSpdf/AWSSysops2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "images/awsdevass.jpg",
+        "title": "AWS Developer Associate Course",
+        "content": "/PDF/AWSpdf/AWSDeveloperAssosiate2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://imgs.search.brave.com/6KNKh6NMtdGgrc_WdDX0CvH02xsbX88bpbryXy0XnMg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9Ib3dfdG9fQmVj/b21lX2FfU29sdXRp/b25zX0FyY2hpdGVj/dC5qcGc",
+        "title": "AWS Solutions Architect Professional",
+        "content": "/PDF/AWSpdf/AWSSolutionArchitectProfessional2(1).pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/flat-design-devops-illustration_23-2149364438.jpg?w=740&t=st=1703880134~exp=1703880734~hmac=000ad7672400d5f60401d5bef8cd792a99741bf302a79edf2d85e8bd0b67e7da",
+        "title": "AWS DevOps Engineer",
+        "content": "/PDF/AWSpdf/AWSDevopsengineer2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/cloud-computing-concept_24908-55304.jpg?w=740&t=st=1703879976~exp=1703880576~hmac=1177291a234b87b35cfe1653a77139236375d93a7c528ab917d1b010e175da07",
+        "title": "AWS Advanced Networking Specialty",
+        "content": "/PDF/AWSpdf/AWSAdvancedSecuritySpecialty22.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/cloud-computing-concept_24908-55291.jpg?w=900&t=st=1703912748~exp=1703913348~hmac=daad8e3094efe8f29ec58cff8de00078e8f36aeffcc2818e93b5e1b5066bd0f5",
+        "title": "AWS Security Specialty course",
+        "content": "/PDF/AWSpdf/AWSAdvancedSecuritySpeciality2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://imgs.search.brave.com/fmZF_maWBiOr8PJfWUF---OdWcVfLdy2s-Wq2x5piT0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9hcnRpZmljaWFs/LWludGVsbGlnZW5j/ZS1idXNpbmVzc21h/bi1icmFpbi1uZXVy/YWwtbmV0d29yay1h/aS13aXRoLWNpcmN1/aXQtYm9hcmRfMzQy/MDAtNDU3LmpwZz9z/aXplPTYyNiZleHQ9/anBn",
+        "title": "AWS Machine Learning Course",
+        "content": "/PDF/AWSpdf/AWSMachineLearning2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://imgs.search.brave.com/W-Qj9kIFVi31ko6LxYA6N6aEUyt5p_fPLLTSgX5hgTc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/MTI0NDY3MzM2MTEt/OTA5OWE3NThlNWU1/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TVRaOGZH/RnRZWHB2YmlVeU1H/RnNaWGhoZkdWdWZE/QjhmREI4Zkh3dw",
+        "title": "AWS Alexa Skill Specialty Course",
+        "content": "/PDF/AWSpdf/awsAlexa.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg?w=740&t=st=1703912628~exp=1703913228~hmac=ecf6c4e216e6877d532144dbc41707b4e71469aa448f8b39195b977d3d4ceb98",
+        "title": "AWS SAP Specialty Course",
+        "content": "/PDF/AWSpdf/AWSSAPSpeciality.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/team-members-working-office_23-2148320021.jpg?w=826",
+        "title": "AWS Ansible Course",
+        "content": "/PDF/AWSpdf/AWSANSIBLE2.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/server-room-cloud-storage-icon-datacenter-database-concept-data-exchange-process_39422-556.jpg?w=826&t=st=1703880320~exp=1703880920~hmac=010f09703f6711b4a07a2105f4ec1cb31b20111317f9b911923b9da755348e71",
+        "title": "AWS Kubernetes Course",
+        "content": "/PDF/AWSpdf/AWSkuberenetes.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "images/awsterra.jpg",
+        "title": "AWS Terraform Course",
+        "content": "/PDF/AWSpdf/AWSTerraformpdf2(1).pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?w=900&t=st=1703913351~exp=1703913951~hmac=d116cb13a928ef6a8b400cad1d426c6eba070622ea6231785b90731caca04b67",
+        "title": "AWS Data Analytics Specialty Course",
+        "content": "/PDF/AWSpdf/AWSDATAANALYTESSPECIALTY.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1anMVLho6f2gR84OpTOTjMCOZRETLWcrL/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "GCP",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-photo/programmer-holding-laptop-with-cloud-computing_53876-71510.jpg?w=740&t=st=1703920377~exp=1703920977~hmac=1234301fc29d4e8c0c2dcd39ce92b7bf3c159b38f43cd8c8f796e154e57474f7",
+        "title": "GCP Cloud Architect Course",
+        "content": "/PDF/GCPpdf/GoogleCloudPlatformCloudArchitect.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/technology-isometric-api-illustration_23-2149375823.jpg?w=996&t=st=1706267670~exp=1706268270~hmac=db8eacc7bcda7711bddbd557df26b13c257937c1717835b8a9963744a806dc50",
+        "title": "GCP Ansible Course",
+        "content": "/PDF/GCPpdf/GCPANSIBLECOURSECONTENT.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/padlock-cloud-storage-from-lines-dot-abstract-low-poly-background-vector-illustration_587448-788.jpg?w=900&t=st=1706267755~exp=1706268355~hmac=a663d1aada88e143997e30610eb8430a9a23ea42674665c8906ae6e8da3e53ab",
+        "title": "GCP Cloud Security Engineer",
+        "content": "/PDF/GCPpdf/GoogleCloudPlatformCloudSecurityEngineer(1).pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/isometric-erp-illustration_52683-84174.jpg?w=996&t=st=1706267812~exp=1706268412~hmac=c3ead00ef2e0b6b891d1607f72d47381a291677776100acdc6e2c6629402ee61",
+        "title": "GCP Terraform Course",
+        "content": "/PDF/GCPpdf/GCPTERRAFORM.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/cloud-storage-network-server-online-backup-graphic_53876-132757.jpg?w=1060&t=st=1703920610~exp=1703921210~hmac=f040f1276d28005a188fcb51dd1645fe874acd5fa82e7a630fac9a91463b56ca",
+        "title": "GCP Associate Engineer Course",
+        "content": "/PDF/GCPpdf/GoogleCloudPlatformAssociateEngineer(1).pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/cloud-computing-storage-data-network_53876-120080.jpg?w=996&t=st=1703920876~exp=1703921476~hmac=a285297c47fc94facd2491fa56bf302476ca7d68d4ee0b2254cdecc3e8b9aebf",
+        "title": "GCP Database Engineer Course",
+        "content": "/PDF/GCPpdf/CloudDatabaseEngineer.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/man-working-energy-innovations_23-2148820171.jpg?w=996&t=st=1706267872~exp=1706268472~hmac=c2705f84e0c07e47b0d06354deb9b446ea936300aa927169ee55e31fa12502f7",
+        "title": "GCP Data Engineer Course",
+        "content": "/PDF/GCPpdf/CloudDatabaseEngineer.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/everything-will-be-awesome-group-young-people-casual-clothes-working-modern-office_146671-16522.jpg?w=996&t=st=1706267991~exp=1706268591~hmac=5c79e434954c80aebd42b18da3d81fb52172138a5526eaf5ab55d0f173e423d4",
+        "title": "GCP Developer Course",
+        "content": "/PDF/GCPpdf/GoogleCloudPlatformDeveloper.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-vector/devops-concept-tiny-programmers-practice-development-software-operations-sign-infinity_501813-783.jpg?w=900",
+        "title": "GCP Devops Engineers",
+        "content": "/PDF/GCPpdf/CLOUDDEVOPSpdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/person-utilizing-ai-tools-daily-tasks_23-2150879483.jpg?w=996&t=st=1706268049~exp=1706268649~hmac=e29561b672999ac3037320691fe2301c208dbc8323817304cd1f56275814545d",
+        "title": "GCP Machine Learning Engineer Course",
+        "content": "/PDF/GCPpdf/GoogleCloudPlatformMachineLearning.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/person-using-ai-tool-job_23-2150711475.jpg?w=996&t=st=1706268139~exp=1706268739~hmac=801f37f5d7e59a2e6b24494dd4d02f3a3be0ae9588a7ad5077e01886b337379c",
+        "title": "GCP Network Engineer Course",
+        "content": "/PDF/GCPpdf/Cloudnetworkengineer.pdf.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/male-hands-laptop-background_488220-47316.jpg",
+        "title": "GCP Workspace Admin Course",
+        "content": "/PDF/GCPpdf/GoogleWorkspaceadministrator.pdf.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/bright-technology-display-search-engine-marketing_23-2150783907.jpg?w=996&t=st=1706268257~exp=1706268857~hmac=3c62f176249a51ed8d972ab151cb0a3e7a25b1a90b1300437746d2de33cc2b3b",
+        "title": "GCP Professional kubernetes Admin Course",
+        "content": "/PDF/GCPpdf/GoogleCloudPlatformProfessionalkubernetes.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Azure",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-photo/cloud-storage-background-business-network-design_53876-160252.jpg?w=996&t=st=1703913750~exp=1703914350~hmac=29b0dd796cca55f903b6d0130e6977111203672d5ee239bbd76737287871386f",
+        "title": "Azure Fundamentals Course",
+        "content": "/PDF/Azurepdf/AzureFundamental.pdf.pdf",
+        "demo": "https://transcripts.gotomeeting.com/#/s/0892901d7f477e1673a48a3452f77fe334430bbba901a197e74dc397af1cf79e"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/cloud-computing-data-storage-center-concept-with-server-rack-connected-laptop_33099-341.jpg?w=740&t=st=1703913627~exp=1703914227~hmac=ff286ae4c0b0bc76bdb50f7e4ffc8aafe226ba43c4d44c6857277afbba069f78",
+        "title": "Azure Developer Assosiate",
+        "content": "",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg?w=740&t=st=1703913574~exp=1703914174~hmac=eec7a7958cda54c312cc5dd015a282a13ff8a5aa0d28c94dfe207b5c4aef07f0",
+        "title": "Azure Administrator Associate",
+        "content": "/PDF/Azurepdf/AzureAdministratorassosiate.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/standard-quality-control-collage-concept_23-2149595831.jpg?w=996&t=st=1703913705~exp=1703914305~hmac=8ffd09522329d53a195b717107e10f5a7b1b2401c7592dfda3bdf7a14eeb14c9",
+        "title": "Azure Security Technologies",
+        "content": "/PDF/Azurepdf/AzureSecuritytechnology.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/person-using-ai-tool-job_23-2150711481.jpg?w=996&t=st=1703914599~exp=1703915199~hmac=c2eca5413055d8d0b609c05809b2f1e7e8d4e01d9f890aedc17ad5b0dd421d19",
+        "title": "Azure artificial-intelligence Engineer",
+        "content": "/PDF/Azurepdf/AzureAIEngineer.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?w=996&t=st=1703914696~exp=1703915296~hmac=c8ac93780af9b048957f3c4c05908ab37ef6a256013ebfa425ee6e8f28be8d13",
+        "title": "Azure Data Scientist Associate Course",
+        "content": "/PDF/Azurepdf/AzureDataScientist.pdf(1).pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/artificial-intelligence-elements-collection-isometric-style_23-2147868402.jpg?w=740&t=st=1703913657~exp=1703914257~hmac=f50c2f40b3db5e0109a2ccbb2a8ee4a5708da22002c12fb1e2fa31f270dbce08",
+        "title": "Azure Designing and Implementing devops",
+        "content": "/PDF/Azurepdf/Designingandimplementingazur.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/technology-isometric-api-illustration_23-2149375823.jpg?w=996&t=st=1703913837~exp=1703914437~hmac=147d816e5ca72942a6f962be59f6f1126ffed1dc2783b31aa10989151698870f",
+        "title": "Azure Ansible in Course",
+        "content": "/PDF/Azurepdf/AzureAnsibleCourse.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/man-is-working-laptop-front-screen-that-says-cyber-security_777576-1932.jpg?w=740",
+        "title": "Azure Data Engineer Course",
+        "content": "/PDF/Azurepdf/AZUREDataEngineer.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/isometric-devops-illustration_52683-84175.jpg?w=996&t=st=1703913938~exp=1703914538~hmac=07fbd2b5389ff5dbb96758b25fbaecd425a3cd834fd2f1f46114628f3090d2c2",
+        "title": "Azure Kubernetes Course",
+        "content": "/PDF/Azurepdf/AzureKubernet.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/businessman-pointing-global-communication-touchscreen-generated-by-ai_188544-16842.jpg?t=st=1703914009~exp=1703917609~hmac=267aada77ca75ef2f1c8210525b312b7ca753077743cf06f4189277147f71cad&w=1060",
+        "title": "Azure Snow Flake Course",
+        "content": "/PDF/Azurepdf/AZURESNOWFLAKE.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/abstract-technology-sql-illustration_23-2149237139.jpg?w=740&t=st=1703914073~exp=1703914673~hmac=d50fe4f70f8bc1c5e85b7a3cb3ccde8369dd708787d234b6727abb4c3b1ca7ec",
+        "title": "Azure SQL Course",
+        "content": "/PDF/Azurepdf/AzureSQL.pdf(1).pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/isometric-data-visualization-concept-background_23-2148106144.jpg?w=740&t=st=1703914144~exp=1703914744~hmac=c7a8357cdf58ab8ad931c4cece1bf982c26828797afb670d7e27a9fdb1ffe191",
+        "title": "Azure Programming Terraform Course",
+        "content": "/pdf/Azurepdf/AZURETERRAFORM.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/data-online-technology-internet-circuit-board-concept_53876-122988.jpg?w=1060&t=st=1703914643~exp=1703915243~hmac=cdd28870c09fe0036a85294b90e04d5a401f0a6c0c8a8fb8434ad6611922cc94",
+        "title": "Azure Data Fundamental Course",
+        "content": "/PDF/Azurepdf/AzureFundamental.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/computing-innovation-concept_700248-7851.jpg?w=996",
+        "title": "Azure Database Admin Associate",
+        "content": "/PDF/Azurepdf/AZUREDATABASEADMINISTRATORASSOCIATE.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/two-young-entrepreneurs-working-computer-reading-email-office_637285-1065.jpg?w=996&t=st=1703915055~exp=1703915655~hmac=19448ce63c7a83f90a2a199725b24887f910398823cd0701d33a43ddcca8340b",
+        "title": "Azure Developer Associate Course",
+        "content": "/PDF/Azurepdf/AzureDeveloper.pdf.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/person-using-ai-tool-job_23-2150711507.jpg?w=996&t=st=1703915192~exp=1703915792~hmac=926b3813ac0e4111c94f907f89c5e834c2c259c279f15e014b443f63d89d33ee",
+        "title": "Azure AI Engineer Associate Course",
+        "content": "/PDF/Azurepdf/AzureAIEngineer.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/neon-fingerprint-background_23-2148380461.jpg?w=996&t=st=1703915333~exp=1703915933~hmac=441f3cf115c4cfacd863e1bde5b60c3a4b74d5aef19a174583f921748f989c69",
+        "title": "Azure Microsoft Identity and Access",
+        "content": "/PDF/Azurepdf/Microsoftidentityandaccess.pdf.pdf",
+        "demo": "https://drive.google.com/file/d/1OvscseN5Alm9JPKtOpG59MSNhAGJYj-t/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Devops",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-vector/devops-engineer-flat-design-concept-with-big-infinity-symbol-centre-little-icons-working-employees-vector-illustration_1284-74955.jpg?w=826&t=st=1703915581~exp=1703916181~hmac=9031497d0b44ac6ba58facd888b5c1ff9a8a305c30f6d05991644afade31e5b5",
+        "title": "Devops Docker Course",
+        "content": "/PDF/Devopspdf/DEVOPSDOCKERFUllCOURSE2.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/landing-page-continuous-devops_107791-2903.jpg?w=1060&t=st=1703915622~exp=1703916222~hmac=69dd535cb674d55e2e0a38f9374547fc1e55c4abc127d34a05cadc1a0c5b6d8f",
+        "title": "Devops Terraform Course",
+        "content": "/PDF/Devopspdf/DEVOPSTERRAFORMFullCours2.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/isometric-devops-illustration_52683-84175.jpg?w=996&t=st=1703915655~exp=1703916255~hmac=ba9a4645285dc898db66ab94999098d373129db177580e57bd71906348ca1e2d",
+        "title": "Devops Kubernetes Course",
+        "content": "/PDF/Devopspdf/DEVOPSTERRAFORMFullCours2.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "App Development",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-photo/ui-ux-representations-with-smartphone_23-2150201875.jpg?w=740&t=st=1704293514~exp=1704294114~hmac=0e42c1953877cbdc24695e86f40feb7141e199c964f59a21f5629d5e04840f86",
+        "title": "App Development Android Course",
+        "content": "/pdf/AppDevelopmentpdf/AppDevelopmentIOS.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150104485.jpg?w=900&t=st=1703879849~exp=1703880449~hmac=e194345f1742aa7c0ae9bdfe5449ac467779da6e4951d71ae7983e324081023a",
+        "title": "App Development IOS Course",
+        "content": "/PDF/AppDevelopmentpdf/AppDevelopmentIOS.pdf.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Java",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=996&t=st=1703918503~exp=1703919103~hmac=6e994bd776ca00da1ad2f093f62ed99c55ef7b8d2a06aeddb2c1e688768e9a79",
+        "title": "Java Ajax Course",
+        "content": "/PDF/Javapdf/ajax.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/coding-programming-site-application-laptop_272306-132.jpg?w=1060",
+        "title": "Java Bootstrap Course",
+        "content": "/PDF/Javapdf/bootstrap.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061963.jpg?w=996&t=st=1703919249~exp=1703919849~hmac=8ba1a65db17be261170250ce331831fce10616ee80aee7d65e16866fd70216ef",
+        "title": "Java Css Course",
+        "content": "/PDF/Javapdf/CSS.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=996&t=st=1703919303~exp=1703919903~hmac=47192a08cce5deb4795c5cb33e131e7fbc10425885bdc0da017103dc7e9241f8",
+        "title": "Java Html Course",
+        "content": "/PDF/Javapdf/html.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-752.jpg?w=740&t=st=1703919420~exp=1703920020~hmac=214b9d92c3e1212edf1542e920f0a1b4b10336055dacd8d035139821e5a31ac6",
+        "title": "JavaScript Course",
+        "content": "/pdf/Javapdf/JavaProgramminginJavaScriptFullCourse.1pdf.pdf(1).pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=996&t=st=1703919469~exp=1703920069~hmac=70bc1cdf645e4acf646014f980a0ca0aad7cc134c1b6497833a67e12bfda49f9",
+        "title": "Java jquery Course",
+        "content": "/PDF/Javapdf/JavaJquery.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/business-man-pushing-touch-screen-interface-java-programming-concept-virtual-machine_161452-10201.jpg?w=1060",
+        "title": "Java Core Java Course",
+        "content": "/PDF/Javapdf/COREJAVApdf.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/cloudy-storage-server-mobile-phone-data-upload-server-room-rack_39422-441.jpg?w=996&t=st=1703919655~exp=1703920255~hmac=88353b9923eae93d8fad9b25fffd7e36313584740991e2530e4522a15923c477",
+        "title": "Java Microservices Course",
+        "content": "/PDF/Javapdf/JavaMicroServices.pdf.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/futuristic-business-scene-with-ultra-modern-ambiance_23-2151003801.jpg?t=st=1703919885~exp=1703923485~hmac=ff1da7f536694b53a25ccbcee8146db6158dde96831777248fc1f686db6665d5&w=996",
+        "title": "Java Spring Apache Kafka Course",
+        "content": "/PDF/Javapdf/SPRINGAPACHEKAFKA.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?w=1380&t=st=1703920323~exp=1703920923~hmac=46438e04bb369fa6cc66162755d5dc901fd882ec4c97a84e54fefcef4521e8d2",
+        "title": "Java Spring Boot Course",
+        "content": "/PDF/Javapdf/JavaSpringBoot.pdf.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Full Stack",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=826&t=st=1703917896~exp=1703918496~hmac=1b34fc0c2b6b8150a1413d38d9309f93ad8990f0f6f58a9b8181adea08a75a9e",
+        "title": "Full Stack Angular Js Course",
+        "content": "/PDF/Fullstackpdf/FullStackAngularJs.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=996&t=st=1703917932~exp=1703918532~hmac=f956ef2673081328434b4fee55b60dca8c947808e0e7e91317fbe3646231aecb",
+        "title": "Full Stack Express JS Course",
+        "content": "/PDF/Fullstackpdf/_FullStackExpressJS.pdf(1).pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/file-transfer-process-processing-big-data-server-room-data-center_39422-478.jpg?w=826&t=st=1703918010~exp=1703918610~hmac=42cc557306b9e28edb27626fef53713c73a92ff38cca7ad66170ae99b3df4db3",
+        "title": "Full Stack Mongo Database Course",
+        "content": "/PDF/Fullstackpdf/_FullStackMongoDatabase.pdfP.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-752.jpg?w=740&t=st=1703918215~exp=1703918815~hmac=52240de8da6e4b9eafada40e45a1749408e8516c8b16bd5db584b011315dcc47",
+        "title": "Full Stack Node Js Course",
+        "content": "/PDF/Fullstackpdf/_FullStackNodeJS.pdf(1).pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/atom-science-education-icon-vector-neon-digital-graphic_53876-114080.jpg?t=st=1703918286~exp=1703918886~hmac=6ad78d6ab732d0902cc2cf41de9d606f8e82de41f3c0e5ddbf4ad5bb863661cf",
+        "title": "Full Stack React Js Course",
+        "content": "/PDF/Fullstackpdf/FullStackReactJS.pdf.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Generative AI",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-photo/person-using-laptop-using-artificial-intelligence-generate-images_23-2150905296.jpg?w=1060&t=st=1706337142~exp=1706337742~hmac=4fbf9471fcc199988f41f41848ae90e8b93847a7e3944daa07d169b35c911935",
+        "title": "Generative AI",
+        "content": "/PDF/GenerativeAi/GENERATIVEAI.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Digital Media Marketing",
+    "courses": [
+      {
+        "image": "https://imgs.search.brave.com/pC2aI41ZYGzQDbVNckYr-HW-jIFW-e7CX1RV63mKvgA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kaWdpdGFsLW1h/cmtldGluZy1uZXct/c3RhcnR1cC1wcm9q/ZWN0LW9ubGluZS1z/ZWFyY2gtZW5naW5l/LW9wdGltaXNhdGlv/bl8zNjMyNS0yMjAz/LmpwZz9zaXplPTYy/NiZleHQ9anBn",
+        "title": "Digital Media Marketing",
+        "content": "/PDF/DigitalMediaMarketing/DIGITALMARKETING(1).pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Prompt Engineering",
+    "courses": [
+      {
+        "image": "https://imgs.search.brave.com/xd62guFcXDIEGP9sVo5Dgelk4e1ikhWRwKfMnEArijU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/emRuZXQuY29tL2Ev/aW1nL3Jlc2l6ZS84/MzgzN2I2ZmI2YTRh/ZjIxNTlmYjM5YTJh/YjA0MTlmZmExNjA2/MDRiLzIwMjMvMDYv/MjMvOWExYjMxYjkt/MGZmOS00ODE2LThh/ZjAtOTVkZWY3MDhm/NGRiL2dldHR5aW1h/Z2VzLTE0MTM3NjEy/MjMuanBnP2F1dG89/d2VicCZ3aWR0aD0x/Mjgw",
+        "title": "Prompt Engineering",
+        "content": "/PDF/PromptEngineering/PROMPTENGINEERING.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "MLOPS",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-125206.jpg?t=st=1739878027~exp=1739881627~hmac=f5577159b858603c5cefd36ec6a516c27d37683b2122b8ad72ee37de345bab38&w=740",
+        "title": "MLOPS",
+        "content": "/PDF/MLOps/MLOps.pdf",
+        "demo": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Python",
+    "courses": [
+      {
+        "image": "https://img.freepik.com/premium-vector/digital-technology-abstract-background-artificial-intelligence_121461-2775.jpg?w=360",
+        "title": "Python Big Data-Apache Spark",
+        "content": "/PDF/Pythonpdf/PYTHONBigDataApacheSpark(1).pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-vector/big-data-background-technology-visualization-artificial-intelligence-deep-learning-quantum-computing-design-template-networking-concept-colorful-big-data-backdrop_121461-2295.jpg?w=360",
+        "title": "Python Big Data-Hadoop",
+        "content": "/PDF/Pythonpdf/BIGGDATAHadoop.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/businesman-technological-scene_1134-492.jpg?w=996&t=st=1703915927~exp=1703916527~hmac=804a7b59ef3cff5e95810e73000cd72e3d70491ffa0967248e9d393786c32895",
+        "title": "Python Power Business Intelligence",
+        "content": "/PDF/Pythonpdf/PYTHONPOWERBI.pdf.pdf"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/people-generating-images-using-artificial-intelligence-laptop_23-2150794313.jpg?w=996&t=st=1703916441~exp=1703917041~hmac=36822c9d6b7679bce0752272cad225af927f58d66e197f3a88ee19080ae176fd",
+        "title": "Python Artificial Intelligence",
+        "content": "/PDF/Pythonpdf/PYTHONArtificialintelligence(1).pdf"
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/website-hosting-concept-with-bright-light_23-2149406783.jpg?w=1380&t=st=1703916658~exp=1703917258~hmac=e67fcd3d52f6405587471a7c70cfb54abed11c8ee06c392101ca4210a9a022c9",
+        "title": "Python Django Course",
+        "content": "/PDF/Pythonpdf/PYTHONDjango.pdf(1).pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/person-using-ai-tool-job_23-2150711490.jpg?w=996&t=st=1703916763~exp=1703917363~hmac=823d334bcab6736e5ee4697a70bfa60625ff1364ad99e74a5a148c71f0e5fc08",
+        "title": "Python Machine Learning Course",
+        "content": "/PDF/Pythonpdf/PYTHONMACHINELEARNINGpdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/coding-programming-site-application-laptop_272306-134.jpg?w=1060",
+        "title": "Python Programming Course",
+        "content": "/PDF/Pythonpdf/PYTHONfullCourse.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/premium-photo/python-programming-code-abstract-technology-background_272306-146.jpg?w=996",
+        "title": "Python R-Programming Course",
+        "content": "/PDF/Pythonpdf/Rprogramming.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062004.jpg?t=st=1703917400~exp=1703918000~hmac=165823853e400c29121cc5ccc4c8cd42bb3b4fb6d4890215ade7ddea8d9a3252",
+        "title": "Python Scala Course",
+        "content": "/PDF/Pythonpdf/Scala.pdf.pdf",
+        "demo": ""
+      },
+      {
+        "image": "https://img.freepik.com/free-vector/abstract-technology-sql-illustration_23-2149237139.jpg?w=740&t=st=1703917783~exp=1703918383~hmac=a1aae3e500fbcf3a68afdb582c7544222f85a54b28a88a55073385332f8bdcc1",
+        "title": "Python SQL Course",
+        "content": "/PDF/Pythonpdf/SQL.pdf.pdf",
+        "demo": ""
+      }
+    ]
+  }
+]

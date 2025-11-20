@@ -10,7 +10,7 @@ export default function ContentPage() {
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
-    fetch("/contents.json")
+    fetch("/content.json")
       .then((res) => res.json())
       .then((data) => setCourses(data));
     

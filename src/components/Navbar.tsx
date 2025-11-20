@@ -64,7 +64,7 @@ export default function Navbar() {
           <div className="flex items-center space-x-4">
             {/* Login Button - Desktop */}
             <Link
-              href="https://www.virajetech.com/auth/login"
+              href="/login"
               className="hidden md:block bg-blue-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors duration-200 shadow-sm"
             >
               Login
@@ -149,7 +149,7 @@ export default function Navbar() {
               </Link>
               <div className="pt-2 border-t border-gray-200">
                 <Link
-                  href="https://www.virajetech.com/auth/login"
+                  href="/login"
                   className="block bg-blue-600 text-white px-4 py-2 rounded-lg font-medium text-center hover:bg-blue-700 transition-colors duration-200"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
